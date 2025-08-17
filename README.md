@@ -142,28 +142,3 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%"/>
 </div>
 
-<!-- Styles for hover/click animations -->
-<style>
-.badge{
-  display:inline-block;padding:8px 12px;margin:6px;border-radius:12px;
-  background:#0b1221;color:#cde4ff;text-decoration:none;border:1px solid #1f3b7a;
-  transition:transform .12s ease, box-shadow .12s ease, background .2s ease;
-  font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Inter,Roboto;
-  font-size:14px
-}
-.badge:hover{transform:translateY(-2px) scale(1.03);box-shadow:0 8px 18px rgba(0,0,0,.25);background:#0f1a33}
-.card{
-  display:inline-block;width:300px;margin:10px;text-decoration:none;border-radius:16px;
-  border:1px solid #223a6b;background:linear-gradient(180deg,#0c1424 0%,#0a0f1a 100%);
-  transition:transform .15s ease, box-shadow .2s ease, border-color .2s ease, opacity .2s ease;overflow:hidden
-}
-.card:active{transform:scale(.98);opacity:.95}
-.card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(0,0,0,.35);border-color:#2a57c7}
-.card-content{padding:14px;color:#d5e7ff;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Inter,Roboto}
-.card img{width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)}
-.card h3{margin:10px 0 6px;font-size:18px}
-.card p{margin:6px 0;color:#b7c9e6;font-size:14px}
-.gallery{width:46%;max-width:420px;margin:6px;border-radius:12px;border:1px solid #1f3b7a;transition:transform .15s ease, filter .2s ease}
-.gallery:hover{transform:translateY(-3px) scale(1.01);filter:saturate(110%)}
-@media (max-width:680px){.card{width:92%}.gallery{width:92%}}
-</style>
