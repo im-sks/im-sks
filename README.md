@@ -100,14 +100,16 @@
 <!-- 3D/AR Shopify Showcase -->
 <a class="card" href="[ADD_LINK_3D_AR]" target="_blank">
   <div class="card-content">
-    <video src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.mp4" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
+    <img src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER.gif" alt="3D AR Product Visualization Demo" style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"/>
     <h3>3D & AR Product Visualization 🧊</h3>
     <p>Photogrammetry + RealityCapture building high‑fidelity 3D models for Shopify e‑com.</p>
-    <p><b>Media:</b> Short AR demo (click to play)</p>
+    <p><b>Media:</b> Short AR demo (animated GIF)</p>
   </div>
 </a>
 
 </div>
+
+> **📝 Note**: For optimal GitHub compatibility, media files (especially GIFs) should be under 25MB with reasonable dimensions (max 800px width recommended). See [`video-to-gif-guide.md`](./video-to-gif-guide.md) for conversion instructions.
 
 ## 🎓 Education
 - B.E., Electronics & Communication — Global Academy of Technology (Nov 2022 – Jun 2026)  
