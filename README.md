@@ -98,9 +98,9 @@
 </a>
 
 <!-- 3D/AR Shopify Showcase -->
-<a class="card" href="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.mp4" target="_blank">
+<a class="card" href="[ADD_LINK_3D_AR]" target="_blank">
   <div class="card-content">
-    <video src="assets/shopify-Ar-Video.mp4" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
+    <video src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.mp4" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
     <h3>3D & AR Product Visualization 🧊</h3>
     <p>Photogrammetry + RealityCapture building high‑fidelity 3D models for Shopify e‑com.</p>
     <p><b>Media:</b> Short AR demo (click to play)</p>
@@ -120,7 +120,7 @@
 
 ## 📸 Gallery
 <div align="center">
-  <img class="gallery" src="[assets/IMG-20250814-WA0001.jpg](https://github.com/im-sks/im-sks/blob/main/IMG-20250814-WA0001.jpg)" alt="NCC group 1"/>
+  <img class="gallery" src="assets/IMG-20250814-WA0001.jpg" alt="NCC group 1"/>
   <img class="gallery" src="assets/IMG-20250814-WA0003.jpg" alt="NCC group 2"/>
 </div>
 
