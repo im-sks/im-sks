@@ -100,7 +100,7 @@
 <!-- 3D/AR Shopify Showcase -->
 <a class="card" href="[ADD_LINK_3D_AR]" target="_blank">
   <div class="card-content">
-    <video src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.mp4" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
+    <video src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.gif" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
     <h3>3D & AR Product Visualization 🧊</h3>
     <p>Photogrammetry + RealityCapture building high‑fidelity 3D models for Shopify e‑com.</p>
     <p><b>Media:</b> Short AR demo (click to play)</p>
