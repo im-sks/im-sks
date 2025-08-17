@@ -50,7 +50,7 @@
 <!-- DRISHTI -->
 <a class="card" href="[ADD_LINK_DRISHTI]" target="_blank">
   <div class="card-content">
-    <img src="assets/Drishti.jpg" alt="DRISHTI Robot"/>
+    <img src="https://github.com/im-sks/im-sks/blob/main/Drishti.png" alt="DRISHTI Robot"/>
     <h3>DRISHTI: Autonomous Surveillance Robot 🤖</h3>
     <p>Raspberry Pi + RPi-V2-CAM with OpenCV real-time detection, multi-sensor obstacle avoidance, autonomous mapping, and IoT dashboard (FastAPI + React).</p>
     <p><b>Tech:</b> Python, OpenCV, FastAPI, React, ESP32/Arduino</p>
@@ -70,7 +70,7 @@
 <!-- Gesture Volume Control -->
 <a class="card" href="[ADD_LINK_GESTURE_VOLUME]" target="_blank">
   <div class="card-content">
-    <img src="assets/Gesture-volume-control.jpg" alt="Gesture volume control"/>
+    <img src="https://github.com/im-sks/im-sks/blob/main/Gesture%20volume%20control.png" alt="Gesture volume control"/>
     <h3>Gesture Volume Control 🖐️🔊</h3>
     <p>Low‑latency hand‑tracking (OpenCV + MediaPipe) for touchless HCI volume control.</p>
     <p><b>Tech:</b> Python, OpenCV, MediaPipe</p>
