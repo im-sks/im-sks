@@ -98,7 +98,7 @@
 </a>
 
 <!-- 3D/AR Shopify Showcase -->
-<a class="card" href="[ADD_LINK_3D_AR]" target="_blank">
+<a class="card" href="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.mp4" target="_blank">
   <div class="card-content">
     <video src="assets/shopify-Ar-Video.mp4" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
     <h3>3D & AR Product Visualization 🧊</h3>
