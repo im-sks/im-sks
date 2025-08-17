@@ -120,8 +120,8 @@
 
 ## 📸 Gallery
 <div align="center">
-  <img class="gallery" src="assets/IMG-20250814-WA0001.jpg" alt="NCC group 1"/>
-  <img class="gallery" src="assets/IMG-20250814-WA0003.jpg" alt="NCC group 2"/>
+  <img class="gallery" src="https://github.com/im-sks/im-sks/blob/main/IMG-20250814-WA0001.jpg" alt="NCC group 1"/>
+  <img class="gallery" src="https://github.com/im-sks/im-sks/blob/main/IMG-20250814-WA0003.jpg" alt="NCC group 2"/>
 </div>
 
 ## 📊 GitHub Stats
