@@ -22,91 +22,75 @@
 - 🌐 Keen on building networked apps with **FastAPI** and hardware–software integrations.  
 - 🤝 Open to collaborations in **ASIC/FPGA**, **embedded‑CV**, and **IoT**.
 
+## 🏆 3D Artist Portfolio — Top GitHub Repositories
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="80%"/>
+</div>
+
+<div align="center">
+
+<!-- Imagine each repo as a 3D "artwork" showcase card -->
+<a href="https://github.com/im-sks/3d-human-avatar" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/im-sks/im-sks/blob/main/3d-avatar-demo.png" alt="3D Human Avatar" width="350" style="border-radius: 12px; box-shadow: 0 4px 12px #00e5ff44; margin: 16px;">
+  <h3>🧑‍🎨 3D Human Avatar Generator</h3>
+  <p>Parametric human avatars with Blender Python scripting. Auto rigging, PBR texturing, and GLTF export for game engines.</p>
+  <p><b>Tech:</b> Python, Blender, GLTF, PBR, Three.js</p>
+</a>
+
+<a href="https://github.com/im-sks/ar-product-viewer" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/im-sks/im-sks/blob/main/ar-product-demo.png" alt="AR Product Showcase" width="350" style="border-radius: 12px; box-shadow: 0 4px 12px #00e5ff44; margin: 16px;">
+  <h3>📦 AR Product Viewer</h3>
+  <p>Augmented Reality web app to visualize 3D models in real-world scale. Uses Model-Viewer + ARCore/ARKit for immersive shopping.</p>
+  <p><b>Tech:</b> JavaScript, Three.js, WebXR, ARCore</p>
+</a>
+
+<a href="https://github.com/im-sks/photogrammetry-pipeline" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/im-sks/im-sks/blob/main/photogrammetry-demo.png" alt="Photogrammetry Pipeline" width="350" style="border-radius: 12px; box-shadow: 0 4px 12px #00e5ff44; margin: 16px;">
+  <h3>🗿 Photogrammetry Pipeline</h3>
+  <p>Automated pipeline: from DSLR photos to high-fidelity textured meshes. Scripts for Meshroom, Blender, and RealityCapture.</p>
+  <p><b>Tech:</b> Python, Meshroom, Blender, RealityCapture</p>
+</a>
+
+<a href="https://github.com/im-sks/pbr-texture-library" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/im-sks/im-sks/blob/main/pbr-demo.png" alt="PBR Texture Library" width="350" style="border-radius: 12px; box-shadow: 0 4px 12px #00e5ff44; margin: 16px;">
+  <h3>🎨 PBR Texture Library</h3>
+  <p>Curated set of seamless PBR materials and textures for 3D artists. Ready for Blender, Unity, and Unreal.</p>
+  <p><b>Tech:</b> Substance, Photoshop, Blender</p>
+</a>
+
+<a href="https://github.com/im-sks/3d-web-gallery" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/im-sks/im-sks/blob/main/3d-gallery-demo.png" alt="3D Web Gallery" width="350" style="border-radius: 12px; box-shadow: 0 4px 12px #00e5ff44; margin: 16px;">
+  <h3>🌐 3D Web Art Gallery</h3>
+  <p>Interactive virtual gallery to showcase your 3D models and scenes online. VR-ready, mobile friendly.</p>
+  <p><b>Tech:</b> Three.js, React, WebGL, A-Frame</p>
+</a>
+
+</div>
+
+<p align="center">
+  <i>Want to see more? <a href="https://github.com/im-sks?tab=repositories">Browse all my repos</a></i>
+</p>
+
+> _Note: This is a featured selection. For a dynamic, up-to-date list, check out my [GitHub profile](https://github.com/im-sks?tab=repositories)._
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="92%"/>
+</div>
+
 ## 🧩 Tech Stack
 <div align="center">
 <a href="#" class="badge">🐍 Python</a>
-<a href="#" class="badge">☕ Java</a>
-<a href="#" class="badge">🧮 C++</a>
-<a href="#" class="badge">⚡ FastAPI</a>
+<a href="#" class="badge">🦄 Blender</a>
+<a href="#" class="badge">🖼️ Three.js</a>
+<a href="#" class="badge">🦾 WebGL</a>
+<a href="#" class="badge">🎨 Substance Painter</a>
+<a href="#" class="badge">🖌️ Photoshop</a>
+<a href="#" class="badge">🌍 ARCore / ARKit</a>
+<a href="#" class="badge">🗿 Meshroom</a>
 <a href="#" class="badge">⚛️ React</a>
-<a href="#" class="badge">📐 Verilog (RTL)</a>
-<a href="#" class="badge">🧪 ModelSim</a>
-<a href="#" class="badge">🔧 Xilinx</a>
-<a href="#" class="badge">🎛️ Cadence Virtuoso</a>
-<a href="#" class="badge">🔩 Arduino</a>
-<a href="#" class="badge">📶 ESP32</a>
-<a href="#" class="badge">📲 Blynk</a>
-<a href="#" class="badge">🖥️ OpenCV</a>
-<a href="#" class="badge">🖐️ MediaPipe</a>
-<a href="#" class="badge">🧰 Keil uVision</a>
-<a href="#" class="badge">🧭 IntelliJ IDEA</a>
-<a href="#" class="badge">🟦 VS Code</a>
-</div>
-
-## 🏗️ Featured Projects (with media)
-
-<div align="center">
-
-<!-- DRISHTI -->
-<a class="card" href="[ADD_LINK_DRISHTI]" target="_blank">
-  <div class="card-content">
-    <img src="https://github.com/im-sks/im-sks/blob/main/Drishti.png" alt="DRISHTI Robot"/>
-    <h3>DRISHTI: Autonomous Surveillance Robot 🤖</h3>
-    <p>Raspberry Pi + RPi-V2-CAM with OpenCV real-time detection, multi-sensor obstacle avoidance, autonomous mapping, and IoT dashboard (FastAPI + React).</p>
-    <p><b>Tech:</b> Python, OpenCV, FastAPI, React, ESP32/Arduino</p>
-  </div>
-</a>
-
-<!-- Booth Wallace Multiplier -->
-<a class="card" href="[ADD_LINK_WALLACE]" target="_blank">
-  <div class="card-content">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Digital logic gif"/>
-    <h3>Booth‑Encoded Wallace Tree Multiplier ⚙️</h3>
-    <p>High-speed Verilog multiplier with reduced propagation delay vs. array multipliers. Simulated on Xilinx/ModelSim.</p>
-    <p><b>Tech:</b> Verilog, Xilinx, ModelSim</p>
-  </div>
-</a>
-
-<!-- Gesture Volume Control -->
-<a class="card" href="[ADD_LINK_GESTURE_VOLUME]" target="_blank">
-  <div class="card-content">
-    <img src="https://github.com/im-sks/im-sks/blob/main/Gesture%20volume%20control.png" alt="Gesture volume control"/>
-    <h3>Gesture Volume Control 🖐️🔊</h3>
-    <p>Low‑latency hand‑tracking (OpenCV + MediaPipe) for touchless HCI volume control.</p>
-    <p><b>Tech:</b> Python, OpenCV, MediaPipe</p>
-  </div>
-</a>
-
-<!-- IoT Gas Detector -->
-<a class="card" href="[ADD_LINK_GAS]" target="_blank">
-  <div class="card-content">
-    <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" alt="IoT gif"/>
-    <h3>IoT Gas Leakage Detector 🛡️</h3>
-    <p>Arduino-based detector with local LED alerts and remote Blynk push notifications.</p>
-    <p><b>Tech:</b> C++(Arduino), Blynk, ESP/Arduino</p>
-  </div>
-</a>
-
-<!-- Java Tic-Tac-Toe -->
-<a class="card" href="[ADD_LINK_TICTACTOE]" target="_blank">
-  <div class="card-content">
-    <img src="https://media.giphy.com/media/26gscSULUcfKU7dZe/giphy.gif" alt="TicTacToe"/>
-    <h3>Java Swing Tic‑Tac‑Toe 🎮</h3>
-    <p>Player‑vs‑player and vs‑computer with a basic AI opponent.</p>
-    <p><b>Tech:</b> Java, Swing</p>
-  </div>
-</a>
-
-<!-- 3D/AR Shopify Showcase -->
-<a class="card" href="[ADD_LINK_3D_AR]" target="_blank">
-  <div class="card-content">
-    <video src="https://github.com/im-sks/im-sks/blob/main/WEB%20BANNER%20.gif" controls muted playsinline style="width:100%;height:140px;object-fit:cover;border-bottom:1px solid rgba(255,255,255,.06)"></video>
-    <h3>3D & AR Product Visualization 🧊</h3>
-    <p>Photogrammetry + RealityCapture building high‑fidelity 3D models for Shopify e‑com.</p>
-    <p><b>Media:</b> Short AR demo (click to play)</p>
-  </div>
-</a>
-
+<a href="#" class="badge">👾 Unity</a>
+<a href="#" class="badge">🦄 Unreal</a>
 </div>
 
 ## 🎓 Education
@@ -141,4 +125,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%"/>
 </div>
-
