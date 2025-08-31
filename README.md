@@ -47,7 +47,7 @@ Electronics and Communication Engineer with a strong foundation in digital logic
 Architected an autonomous surveillance robot by integrating a Raspberry Pi and Rpi-V2-CAM, implementing real-time object detection with OpenCV, multi-sensor obstacle avoidance, and autonomous area mapping using Python. Implemented IoT dashboard using FastAPI and React.
 
 <div align="center">
-  <img src="./files/Drishti.png" alt="Drishti Surveillance Robot" width="320" style="border-radius:12px; box-shadow:0 4px 12px #00e5ff44; margin:12px;"/>
+  <img src="https://github.com/im-sks/im-sks/blob/main/Drishti.png" alt="Drishti Surveillance Robot" width="320" style="border-radius:12px; box-shadow:0 4px 12px #00e5ff44; margin:12px;"/>
 </div>
 
 ### Booth Encoded Wallace Tree Multiplier
@@ -80,8 +80,8 @@ Developed a GUI-based Tic-Tac-Toe game in Java Swing, featuring both player-vs-p
 ## 📸 Gallery
 
 <div align="center" style="display:flex; gap:20px;">
-  <img src="./files/IMG-20250814-WA0001.jpg" alt="NCC group 1" width="200" height="200" style="object-fit:cover; border-radius:16px; box-shadow:0 4px 24px #00e5ff44;"/>
-  <img src="./files/IMG-20250814-WA0003.jpg" alt="NCC group 2" width="200" height="200" style="object-fit:cover; border-radius:16px; box-shadow:0 4px 24px #00e5ff44;"/>
+  <img src="https://github.com/im-sks/im-sks/blob/main/IMG-20250814-WA0001.jpg" width="200" height="200" style="object-fit:cover; border-radius:16px; box-shadow:0 4px 24px #00e5ff44;"/>
+  <img src="https://github.com/im-sks/im-sks/blob/main/IMG-20250814-WA0003.jpg" width="200" height="200" style="object-fit:cover; border-radius:16px; box-shadow:0 4px 24px #00e5ff44;"/>
 </div>
 
 ---
